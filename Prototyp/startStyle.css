@@ -1,0 +1,33 @@
+body{
+    color: #8DBF22;
+    text-align: center;
+    height: 812px;
+    width: 375px;
+    font-family:'Century Gothic','Futura', sans-serif;
+    font-weight: bolder;
+}
+
+/*Start Bildschirm*/
+
+#startMain{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -40%);
+
+}
+#startFooter{
+    position: absolute;
+    width: 100%;
+    top: 80%;
+    left: 50%;
+    transform: translate(-80%, -20%);
+}
+#startFooter img{
+    width: 80%;
+    position: relative;
+    top: 50%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+
+}
